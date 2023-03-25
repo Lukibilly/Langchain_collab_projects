@@ -1,0 +1,1 @@
+You could simulate conversations between people using their interests (or maybe posts, following people, etc.) and link people that are likely to connect well.
