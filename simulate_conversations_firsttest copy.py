@@ -2,7 +2,7 @@ import openai
 import langchain
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
+from langchain.chains import LLMChain, LLMMathChain
 import os
 import numpy
 
